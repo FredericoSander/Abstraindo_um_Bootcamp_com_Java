@@ -51,7 +51,8 @@
 
 ## Conclusão
 
-<p align="Justify")Este projeto serve como uma introdução prática à Programação Orientada a Objetos em Java. Ele cobre conceitos fundamentais como classes, objetos, herança, encapsulamento e manipulação de listas. É um ótimo ponto de partida para desenvolvedores iniciantes que desejam entender como estruturar um projeto Java e aplicar princípios de POO.</p>
+<p align="Justify"> Este projeto serve como uma introdução prática à Programação Orientada a Objetos em Java. Ele cobre conceitos fundamentais como classes, objetos, herança, encapsulamento e manipulação de listas. É um ótimo ponto de partida para desenvolvedores iniciantes que desejam entender como estruturar um projeto Java e aplicar princípios de POO.
+</p>
 
 
 
